@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679609736 source:g:\0x04-more_functions_nested_loops\alx-low_level_programming\0-isupper.c\0-isupper\main.c
+	<stdio.h>
+	<ctype.h>
+
