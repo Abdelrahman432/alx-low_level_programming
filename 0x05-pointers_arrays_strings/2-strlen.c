@@ -17,7 +17,4 @@ int _strlen(char *s)
 	return (longi);
 }
 
-B
-B
-B
 
